@@ -1,0 +1,17 @@
+  .content--center {
+    margin: 0 auto;
+  }
+  
+  .carrousel__title__bg {
+    background: color(display-p3 1 0.08 0);
+  }
+
+  .carrousel__title {
+    font-size: 2rem;
+  }
+
+  @container (min-width: 700px) {
+    .carrousel__title {
+      font-size: max(1.5em, 1.23em + 2cqi);
+    }
+  }

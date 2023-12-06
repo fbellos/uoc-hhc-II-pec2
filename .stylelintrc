@@ -1,0 +1,11 @@
+{
+    "extends": ["stylelint-config-recommended-scss"],
+    "rules": {
+        "property-case": "lower",
+        "selector-type-case": "lower",
+        "declaration-block-trailing-semicolon": "always",
+        "string-quotes": "single",
+        "selector-attribute-quotes": "always",
+        "scss/at-import-partial-extension": null
+    }
+}

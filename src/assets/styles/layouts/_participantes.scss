@@ -1,0 +1,22 @@
+
+
+  .categorias--grid {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  
+  .box {
+    padding: 2rem;
+    margin: 0.5rem;
+    background-color: $box-bg;
+    border: 2px solid $uoc-corporate;
+    flex: 1 48%;
+    @media (min-width: $mdWidth) {
+      flex: 1 30%;
+    }  
+    @media (max-width: $smWidth) {
+      flex: 1 100%;
+    }
+  }
+  

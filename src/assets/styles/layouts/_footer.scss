@@ -1,0 +1,29 @@
+  .footer--uoc {
+    margin-top: 1.5rem;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+
+  .footer__logo {
+    width: 30%;
+    height: auto;
+    margin-bottom: 1em;
+  }
+  
+  .logo--uoc {
+    width: 80%;
+    height: auto;
+    margin: 1.5em;
+    @media (max-width: $smWidth) {
+      width: 40%;
+    }
+  }
+  
+  .footer__text {
+    margin: 1.5em;
+    color: white;
+  }
+  
+  .footer__nav--text {
+    color: $uoc-corporate;
+  }
