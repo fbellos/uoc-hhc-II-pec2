@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uoc-advanced-html-css/uoc-boilerplate.git"
+    "url": "git+https://github.com/fbellos/uoc-hhc-II-pec2.git"
   },
   "author": {
     "name": "Jordi Tarrida",
@@ -32,9 +32,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uoc-advanced-html-css/uoc-boilerplate/issues"
+    "url": "https://github.com/fbellos/uoc-hhc-II-pec2/issues"
   },
-  "homepage": "https://github.com/uoc-advanced-html-css/uoc-boilerplate#readme",
+  "homepage": "https://github.com/fbellos/uoc-hhc-II-pec2#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
     "autoprefixer": "^10.4.15",
